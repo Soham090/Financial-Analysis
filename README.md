@@ -78,6 +78,6 @@ Insights into business profitability and cost management
 
 
 ![image alt](https://github.com/Soham090/Financial-Analysis/blob/main/Screenshot%202025-10-23%20192934.png)
-![image alt]()
+![image alt](https://github.com/Soham090/Financial-Analysis/blob/main/Screenshot%202025-10-23%20193000.png)
 ![image alt]()
 
