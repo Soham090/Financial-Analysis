@@ -1,9 +1,10 @@
-Financial Performance Dashboard.
+# Financial Performance Dashboard.
+
 
 This project visualizes and analyzes a company’s financial performance for the year 2020 using Excel dashboards and Power BI-style visuals.
 It provides a detailed breakdown of sales, costs, operating performance, and profitability metrics.
 
-📁 Project Overview
+## 📁 Project Overview
 
 The dataset (findata-m5KLx91yPatZlJqV.xlsx) contains key financial data, including:
 
@@ -27,7 +28,7 @@ Net Profit
 
 Country-wise filtering and year comparison (2018–2020)
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 Key Insights
 
@@ -45,7 +46,7 @@ Net Profit: ₹-189,659
 
 The dashboard also highlights profitability trends and visualizes revenue growth across quarters for the year 2020.
 
-⚙️ Tools Used
+## ⚙️ Tools Used
 
 Microsoft Excel – Data cleaning, calculations, and visualizations
 
@@ -55,7 +56,7 @@ Conditional Formatting – To emphasize profit/loss performance
 
 Power BI-style Visualization – For dashboard layout and interactivity
 
-📈 Features
+## 📈 Features
 
 Yearly financial analysis (2018–2020)
 
@@ -65,7 +66,7 @@ Trend lines for Sales, Gross Profit, and Net Profit
 
 Automatic calculation of key metrics (EBITDA, PBIT, Net Profit)
 
-🧠 Learnings
+## 🧠 Learnings
 
 Improved understanding of financial statement structure (Trading, Operating, Non-Operating sections)
 
