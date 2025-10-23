@@ -73,3 +73,8 @@ Improved understanding of financial statement structure (Trading, Operating, Non
 Practical exposure to data visualization in Excel
 
 Insights into business profitability and cost management
+
+
+
+
+![image alt]()
